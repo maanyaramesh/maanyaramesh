@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 <p align="center">
   <img src="![Maanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=maanyaramesh&show_icons=true&theme=tokyonight&hide_border=true)" />
   <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maanyaramesh&layout=compact&theme=tokyonight&hide_border=true)" />
@@ -17,10 +16,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maanyaramesh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maanyaramesh&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=maanyaramesh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maanyaramesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
         
