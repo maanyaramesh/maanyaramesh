@@ -1,4 +1,10 @@
+<div align="center">
+
 # hey, i'm maanya :)
+
+**software engineering student @ VIT Chennai**
+
+</div>
 
 second-year software engineering student at VIT Chennai.
 
