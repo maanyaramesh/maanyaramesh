@@ -1,12 +1,4 @@
-<div align="center">
-
 # hey, i'm maanya :)
-
-**software engineering student @ VIT Chennai**
-
-</div>
-
-second-year software engineering student at VIT Chennai.
 
 i like building things on the web, messing around with new tech, and making stuff look nice while i'm at it.
 
@@ -15,12 +7,6 @@ currently learning more about:
 - backend & databases
 - DBMS/OOPS
 - DSA & core CS
-
-### things i've built
-
-- **[ZipLite](https://github.com/maanyaramesh/file-compression-tool)** — file compression tool built with C, Huffman coding, RLE, Flask & JavaScript
-- **[A11yScan](https://github.com/maanyaramesh/accessibility-audit-tool)** — web accessibility scanner using React, Express, Puppeteer & axe-core
-- **[InstaCut Pro](https://github.com/maanyaramesh/instacut-pro)** — image background removal & editing app using FastAPI and rembg
 
 ### tech i use
 
@@ -33,3 +19,11 @@ UI/UX, Figma, trying out random ideas, and probably spending way too long decidi
 ### find me
 
 [LinkedIn](https://linkedin.com/in/maanyaramesh) 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maanyaramesh&show_icons=true&hide_border=true&theme=transparent" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanyaramesh&layout=compact&hide_border=true&theme=transparent" height="170">
+
+</div>
